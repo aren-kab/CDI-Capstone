@@ -6,3 +6,6 @@ This is a two-part data science project performed by NYU CUSP teammates Michael 
 The first phase of this project resulted in interactive map visualizatons of the state of California, depicting scores of ten different indicators of economic mobility, as well as a composite score (the CDI score).
 
 The second phase of this project was a clustering analysis of California households using these same indicators as features. The first clustering exercise was only for the year 2019 and was based on the eight indicators that were available in the IPUMS census microdata. Seven clusters were produced and compared here, and this is titled the 2019 Comprehensive Clustering. The second exercise covered years 1990-2019 relied on three of these indicators as features due to availability in the data. Four clusters were produced for each decade and compared over time. This exercise is referred to as the Multi-Year Clustering. 
+
+Clustering data source citation:
+Steven Ruggles, Sarah Flood, Sophia Foster, Ronald Goeken, Jose Pacas, Megan Schouweiler and Matthew Sobek. IPUMS USA: Version 11.0 [dataset]. Minneapolis, MN: IPUMS, 2021.
